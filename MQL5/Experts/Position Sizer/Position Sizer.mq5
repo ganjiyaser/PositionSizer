@@ -17,6 +17,7 @@ string    Version = "3.10";
 //#include "Translations\Russian.mqh"
 //#include "Translations\Spanish.mqh"
 //#include "Translations\Ukrainian.mqh"
+//#include "Translations\farsi.mqh"
 
 #property description "Calculates risk-based position size for your account."
 #property description "Allows trade execution based the calculation results.\r\n"
